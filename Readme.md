@@ -1,8 +1,8 @@
-##BUT/OBJECTIF:##
+**BUT/OBJECTIF**
 Créer un dossier et un fichier en ligne de commande,  pour le mettre sur Github
-##INFORMATIONS DE REFERENCE:##
+**INFORMATIONS DE REFERENCE:**
 [GitHub Pages](https://pages.github.com/)
-##AUTEUR:##
+**AUTEUR:**
 Jimmy
-##DATE:##
+**DATE:**
 19/09/2023
